@@ -10,11 +10,12 @@
     flex-flow: row; 
     justify-content: left; 
     font-size: 20px; 
-    margin: 5px 20px;
+    margin: 5px 10px;
 }
 
 .sublist {
-    padding: 0 50px;
+    width: 100%;
+    padding: 0 40px;
     font-size: 17px;
     margin: 5px 15px;
 }
